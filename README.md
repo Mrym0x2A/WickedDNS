@@ -44,8 +44,4 @@ This tool is intended for:
 - Network traffic analysis
 - DNS query rate limiting
 
-
-  
-    DNS queries with base64-encoded data patterns
-
     Regular beaconing to the same domain
