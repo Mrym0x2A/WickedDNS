@@ -43,5 +43,3 @@ This tool is intended for:
 - Domain blacklisting
 - Network traffic analysis
 - DNS query rate limiting
-
-    Regular beaconing to the same domain
