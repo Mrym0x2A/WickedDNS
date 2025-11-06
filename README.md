@@ -18,7 +18,7 @@ This tool is intended for:
 - Users assume all liability for proper and legal use
 - Always use ethical hacking principles.
 
-## DISCLAIMER
+## Features
 
 - DNS Covert Channels: Uses DNS TXT and A records for data exfiltration
 - Stealthy Communication: Blends with normal DNS traffic
